@@ -12,3 +12,6 @@
 6. Light color background headings - #073042
 7. ("Explore More" headings) - #D7EFFE
 8. "Community" cards background - #EFF7CF
+
+TODOS:
+Change folder name to "website clones"
